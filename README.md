@@ -1,7 +1,7 @@
 # bios611-project2
 This project aim to use R-shiny app to visualiza each prodictor's contribution to the final real estate price in Seattle, the model we use is GBM. By setting different parameters in the GBM methods, the predition results vary a little bit. Therefore, we can have this app to give us a better understanding of how GBM working on the continuous data prediction with multiple predictors in the model.  
 
-# data
+## data
 The data comes from https://www.kaggle.com/harlfoxem/housesalesprediction
 This is a real life dataset contains house sale prices for King County, which includes Seattle. It includes homes sold between May 2014 and May 2015.
 To prevent the effect of outliers, we eliminate the house with bedroom number over 6.
