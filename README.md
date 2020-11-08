@@ -17,8 +17,11 @@ The error between predicted price and the actual price is quite small.
 
 # how to run the app on docker
 first, build the docker environment by:
+
     >docker build . -t project2
 Then,  initiate the aliases by saying:
+
     >source aliases.bashrc
 Lastly, run the docker enviornment by:
+
     >start_shiny gbm 8788
