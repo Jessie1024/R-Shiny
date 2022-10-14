@@ -1,5 +1,5 @@
 # bios611-project2
-This project aim to use R-shiny app to visualiza each prodictor's contribution to the final real estate price in Seattle, the model we use is GBM. By setting different parameters in the GBM methods, the predition results vary a little bit. Therefore, we can have this app to give us a better understanding of how GBM working on the continuous data prediction with multiple predictors in the model.  
+This project aim to use R-shiny app to visualiz each predictor's contribution to the final real estate price in Seattle, the model we use is GBM. By setting different parameters in the GBM methods, the predition results vary a little bit. Therefore, we can have this app to give us a better understanding of how GBM working on the continuous data prediction with multiple predictors in the model.  
 
 ## data
 The data comes from https://www.kaggle.com/harlfoxem/housesalesprediction
